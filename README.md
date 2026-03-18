@@ -1,16 +1,23 @@
-## Hi there 👋
+# Obakeng Kennedy Diphala
 
-<!--
-**byui-dev/byui-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Obakeng Kennedy Diphala, a student at Brigham Young University-Idaho interested in Web Development, Software Development, Full Stack Development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning Web Frontend, Development, Web Backend Development, Web Services, Mobile Apps Development
+- My goals are to learn Full Stack Development, .NET Development
+- Ask me about Python, C#, HTML, CSS, JavaScript, Node.js
+
+## Technologies and Tools
+
+- Proficient in: Python, C#, HTML, CSS, JavaScript, Node.js, Java, Kotlin
+- Skills: PostregSQL, MongoDB
+
+## Let's Connect!
+
+- Here is my [LinkedIn] www.linkedin.com/in/obakengdiphala profile
+- Here is my [Twitter] https://x.com/obakengkdiphala profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
