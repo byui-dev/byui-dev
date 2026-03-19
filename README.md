@@ -6,7 +6,7 @@ I'm Obakeng Kennedy Diphala, a student at Brigham Young University-Idaho interes
 
 ## About Me
 
-- I'm currently learning Web Frontend, Development, Web Backend Development, Web Services, Mobile Apps Development
+- I'm currently learning Web Frontend Development, Web Backend Development, Web Services, Mobile Apps Development
 - My goals are to learn Full Stack Development, .NET Development
 - Ask me about Python, C#, HTML, CSS, JavaScript, Node.js
 
